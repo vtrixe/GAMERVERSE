@@ -1,0 +1,14 @@
+.container{
+    width:400px;
+    border: solid black 2px;
+    flex-wrap: wrap;
+    flex-direction: row-reverse;
+    justify-content: space-around;
+
+}
+.box{
+    border: 2px solid red;
+    border-collapse: collapse;
+    background-color: aqua;
+    
+}
