@@ -26,3 +26,6 @@ Open your web browser and navigate to http://localhost:3000
 Credits
 Next.js for server-side rendering and routing
 Framer Motion for animations and transitions
+
+
+DEPLOYED: https://gamingmetaverse-github-io-git-main-vtrixe.vercel.app/
